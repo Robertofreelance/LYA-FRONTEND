@@ -1,0 +1,49 @@
+.bSWeAW:hover:enabled,
+.bSWeAW:focus:enabled,
+.cetQhm {
+  background-color: #c2000d !important;
+}
+.bQjoUN {
+  box-shadow: 0 0 1px 2px !important;
+}
+.cetQhm:hover,
+.cetQhm:focus,
+.cetQhm {
+  box-shadow: 0 0 1px 3px !important;
+}
+
+.rec-item-wrapper {
+  height: 100%;
+}
+/* Estilos para motores Webkit y blink (Chrome, Safari, Opera... )*/
+
+.contenedor::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+.contenedor::-webkit-scrollbar:vertical {
+    width:10px;
+}
+
+.body::-webkit-scrollbar-button:increment,.body::-webkit-scrollbar-button {
+    display: none;
+} 
+
+.body::-webkit-scrollbar:horizontal {
+    height: 10px;
+}
+
+.body::-webkit-scrollbar-thumb {
+    background-color: #797979;
+    border-radius: 20px;
+    border: 2px solid #f1f2f3;
+}
+.react-datepicker-popper {
+  left: -70px !important
+}
+.body::-webkit-scrollbar-track {
+    border-radius: 10px;  
+}
+.rec-slider{
+  min-height: auto !important;
+}
